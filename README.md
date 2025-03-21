@@ -4,38 +4,18 @@ Lung Cancer Survey Analysis and Visualization.
 
 This project presents an interactive Power BI dashboard that provides insights into a Lung Cancer Survey. The visualization explores key aspects of the survey, including:
 
-# Common Symptoms
+- Common Symptoms
 - Age and Gender Distribution
 - Smoking and Alcohol Consumption Trends
 - Cancer Family History
 
 # Dataset
-The analysis uses a dataset available on Kaggle, also included in this repository as "Lung Cancer Survey.csv".
+The source dataset used here can be found : https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
+It has also been added to the repository as "Lung_Cancer_powerBI".
 
 To improve clarity, binary fields in the dataset have been converted as follows:
-
 1 = NO
 2 = YES
-# Data Overview
-The dataset consists of the following attributes:
-
--GENDER
--AGE
--SMOKING
--YELLOW_FINGERS
--ANXIETY
--PEER_PRESSURE
--CHRONIC DISEASE
--FATIGUE
--ALLERGY
--WHEEZING
--ALCOHOL CONSUMING
--COUGHING
--SHORTNESS OF BREATH
--SWALLOWING DIFFICULTY
--CHEST PAIN
--LUNG_CANCER
-Note: Except for GENDER and AGE, all other fields contain YES/NO values indicating the presence or absence of specific factors.
 
 # Power BI Dashboard
 The dashboard, created using Power BI Desktop, provides an interactive view of the survey data.
@@ -46,3 +26,5 @@ It includes the following key visualizations:
 ✅ Gender Distribution
 ✅ Smoking & Alcohol Consumption Trends
 ✅ Cancer Family History Insights
+![dashboard](https://github.com/user-attachments/assets/b5c4d84c-4fb1-45a2-9330-90f3698b0e6f)
+
