@@ -26,5 +26,6 @@ It includes the following key visualizations:
 ✅ Gender Distribution
 ✅ Smoking & Alcohol Consumption Trends
 ✅ Cancer Family History Insights
-![dashboard](https://github.com/user-attachments/assets/b5c4d84c-4fb1-45a2-9330-90f3698b0e6f)
+![dashboard](https://github.com/user-attachments/assets/6eaaea39-3a88-4f0b-a7b7-9ffd0da33c1f)
+
 
